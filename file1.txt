@@ -13,8 +13,12 @@ dictum sit amet
 justo donec enim diam 
 vulputate ut pharetra 
 sit amet aliquam id 
-diam maecenas 
+Edited str by user 2
 Edited str by user 1
 Added str by user 1
+<<<<<<< HEAD
 Added str by user 3
 
+=======
+Added str by user 2
+>>>>>>> 444bbf8372246903e7b008f10447e7053dc3e9b4
